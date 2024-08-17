@@ -1,6 +1,6 @@
 # Trivago Interview Presentation
 
-This is a Next.js project created for a Trivago interview presentation. It features a slide-based presentation with navigation controls and fullscreen capabilities.
+This is a Next.js project I created for my Trivago interview presentation. It features a slide-based presentation with navigation controls and fullscreen capabilities.
 
 ## Getting Started
 

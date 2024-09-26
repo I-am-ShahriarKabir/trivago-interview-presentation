@@ -16,7 +16,7 @@ interface Slide {
 const slides: Slide[] = [
   {
     title: "Shahriar Kabir",
-    content: "Backend Engineer Candidate",
+    content: "Software Engineer | Data Scientist | AI/ML Specialist",
     subContent: "Passionate about building scalable, high-performance systems"
   },
   {
@@ -24,7 +24,7 @@ const slides: Slide[] = [
     highlights: [
       "1. Bio",
       "2. Experiences and related skills",
-      "3. Why Trivago?"
+      "3. Why Dryad?"
     ]
   },
   {
@@ -115,19 +115,19 @@ const slides: Slide[] = [
     ]
   },
   {
-    title: "Why Trivago?",
-    content: "• Excited about working on data pipelines",
-    subContent: "• Interest in streaming technologies like Apache Kafka",
+    title: "Why Dryad?",
+    content: "• Excited to contribute to sustainable data sharing practices for global environmental impact",
+    subContent: "• Passionate about driving innovation in research data management, including IoT and advanced analytics",
     highlights: [
-      "1. Eager to contribute to Trivago's mission of empowering travelers",
-      "2. Contributing ideas on how to bring the best and most relevant data to our users so they can make a profound decision on their next hotel booking",
-      "3. Involving AI into data processing and streamlining"
+      "1. Motivated by Dryad’s mission to accelerate environmental sustainability by leveraging data-driven insights and fostering global collaboration",
+      "2. Eager to contribute to R&D projects that involve cutting-edge technologies like IoT and machine learning, supporting real-time environmental monitoring and resource conservation efforts",
+      "3. Committed to enhancing the accessibility and usability of open data, enabling researchers to make impactful decisions for environmental sustainability"
     ]
   },
   {
     title: "Thank You",
     content: "Questions?",
-    subContent: "Looking forward to discussing how I can contribute to Trivago's success"
+    subContent: "Looking forward to discussing how I can contribute to Dryad's success"
   }
 ];
 

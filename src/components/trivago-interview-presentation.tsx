@@ -24,7 +24,6 @@ const slides: Slide[] = [
     highlights: [
       "1. Bio",
       "2. Experiences and related skills",
-      "3. Why Dryad?"
     ]
   },
   {
@@ -72,7 +71,7 @@ const slides: Slide[] = [
     content: "• Led implementation of CI/CD pipelines",
     subContent: "• Reduced deployment times by 50%",
     highlights: [
-      "1. Led CI / CD pipeline implementation using GitLab",
+      "1. Led CI/CD pipeline implementation using GitLab",
       "2. Integrated test scripts in CI/CD pipeline using Jenkins, enabling early detection of issues and maintaining high code quality",
       "3. Created a Dockerfile to streamline the deployment of a Gazebo simulation environment with Pixhawk firmware integration",
       "4. Enabled developers to test and validate drone missions virtually before real-world flight, reducing the risk of accidents and expediting the development cycle",
@@ -115,19 +114,9 @@ const slides: Slide[] = [
     ]
   },
   {
-    title: "Why Dryad?",
-    content: "• Excited to contribute to sustainable data sharing practices for global environmental impact",
-    subContent: "• Passionate about driving innovation in research data management, including IoT and advanced analytics",
-    highlights: [
-      "1. Motivated by Dryad’s mission to accelerate environmental sustainability by leveraging data-driven insights and fostering global collaboration",
-      "2. Eager to contribute to R&D projects that involve cutting-edge technologies like IoT and machine learning, supporting real-time environmental monitoring and resource conservation efforts",
-      "3. Committed to enhancing the accessibility and usability of open data, enabling researchers to make impactful decisions for environmental sustainability"
-    ]
-  },
-  {
     title: "Thank You",
     content: "Questions?",
-    subContent: "Looking forward to discussing how I can contribute to Dryad's success"
+    subContent: "Looking forward to discussing how I can contribute"
   }
 ];
 
